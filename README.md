@@ -1,15 +1,11 @@
 <div align="center" id="top">
 
-<img src="https://github.com/assafelovic/gpt-researcher/assets/13554167/20af8286-b386-44a5-9a83-3be1365139c3" alt="Logo" width="80">
-
-
 </div>
 
-# 🔎 GPT Researcher
-
+# Maulti-Agent-Medical-Resaercher
+Reference link for model framework learning:(https://github.com/assafelovic/gpt-researcher/tree/main)
 
 ## Architecture
-
 The core idea is to utilize 'planner' and 'execution' agents. The planner generates research questions, while the execution agents gather relevant information. The publisher then aggregates all findings into a comprehensive report.
 
 <div align="center">
